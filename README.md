@@ -11,6 +11,9 @@
 
 ### Linux
 
+### Nginx
+- [Nginx16连环问，你被问到了吗！](https://juejin.im/post/6844904182923837454)
+
 ### Docker
 
 ### Git
