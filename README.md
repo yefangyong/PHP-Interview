@@ -3,6 +3,7 @@
 ## 问题列表
 
 ### PHP
+- [PHP和nginx是如何通信的了解么？](docs/PHP/PHP和nginx是如何通信的？.md)
 
 ### Mysql
 
