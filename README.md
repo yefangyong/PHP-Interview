@@ -6,6 +6,7 @@
 - [PHP和nginx是如何通信的了解么？](docs/PHP/PHP和nginx是如何通信的？.md)
 
 ### Mysql
+- [你知道聚簇索引和非聚簇得区别么？](https://www.cnblogs.com/jiawen010/p/11805241.html)
 
 ### Laravel
 
