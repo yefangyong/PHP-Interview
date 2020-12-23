@@ -11,6 +11,7 @@
 
 ### Laravel
 - [一篇文章带你搞懂 Laravel 框架的底层运行原理](docs/Laravel/一篇文章带你搞懂%20Laravel%20框架底层运行原理.md)
+- [一些非常好用的 Laravel 框架的扩展包你还知道么？](docs/Laravel/一些非常好用的laravel扩展包你知道么？.md)
 
 ### Linux
 
